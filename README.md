@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yahirsancchez
-- 👀 I’m interested in learing how to code !...
-- 🌱 I’m currently learning python (im struggling)
+- 👋 Hi, I’m @yahirsancchez and I am new to coding !
+- 👀 I’m interested in learing how to code !
+- 🌱 I’m currently learning python (Im struggling, pls help.)
 - 💞️ I’m looking to collaborate on learning with anyone.
 - 📫 How to reach me: Send me an email : ysanche@ncsu.edu
 
